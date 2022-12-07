@@ -1,0 +1,15 @@
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\bin\Debug\net6.0\tictactoeNaDruhou.exe
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\bin\Debug\net6.0\tictactoeNaDruhou.deps.json
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\bin\Debug\net6.0\tictactoeNaDruhou.runtimeconfig.json
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\bin\Debug\net6.0\tictactoeNaDruhou.dll
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\bin\Debug\net6.0\tictactoeNaDruhou.pdb
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.csproj.AssemblyReference.cache
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.AssemblyInfoInputs.cache
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.AssemblyInfo.cs
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.csproj.CoreCompileInputs.cache
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.dll
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\refint\tictactoeNaDruhou.dll
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.pdb
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\tictactoeNaDruhou.genruntimeconfig.cache
+C:\Users\sebik\source\repos\tictactoeNaDruhou\tictactoeNaDruhou\obj\Debug\net6.0\ref\tictactoeNaDruhou.dll
